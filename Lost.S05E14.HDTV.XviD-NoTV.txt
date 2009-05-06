@@ -1,0 +1,546 @@
+{1}{100}www.napiprojekt.pl - nowa jakoœæ napisów.|Napisy zosta³y specjalnie dopasowane do Twojej wersji filmu.
+{12}{57}/W poprzednich odcinkach...
+{99}{136}Desmond?
+{137}{243}Musisz wróciæ na uniwersytet w Oksfordzie.|Do miejsca, gdzie siê poznaliœmy.
+{244}{317}OdnajdŸ moj¹ matkê,|nazywa siê...
+{352}{419}Co siê stanie,|jeœli nie sprowadzê ich wszystkich?
+{420}{463}Niech Bóg ma nas w swojej opiece.
+{464}{504}Wracam dzisiaj na wyspê,
+{505}{555}/jak tylko za³atwiê|/jeszcze jedn¹ sprawê.
+{556}{586}Zabijê twoj¹ córkê.
+{587}{627}Co tu robisz?
+{658}{699}Desmond?
+{829}{866}Tracimy puls!
+{900}{929}Rana postrza³owa!|Ma zapaœæ!
+{930}{957}- Sala 7, szybko!|- Wyjdzie z tego?
+{958}{978}Proszê zaczekaæ tutaj.
+{979}{1008}Dok¹d go zabieracie?|Co siê dzieje?
+{1009}{1046}Proszê poczekaæ tutaj.
+{1047}{1089}Bêdziemy pani¹|informowaæ na bie¿¹co.
+{1090}{1135}Co siê dzieje?|Wyjdzie z tego?
+{1136}{1201}Zrobimy wszystko, co w naszej mocy.|Proszê poczekaæ.
+{1202}{1236}Tatusiu!
+{1237}{1319}Nic mu nie bêdzie.
+{1574}{1629}Ile lat ma twój syn?
+{1630}{1684}Dwa.
+{1750}{1813}W³osy ma po ojcu.
+{1887}{1935}Przepraszam, znam pani¹?
+{1946}{2008}Nie, ale twój m¹¿ tak.
+{2009}{2050}Jestem Eloise Hawking.
+{2051}{2183}Mój syn jest odpowiedzialny|za postrzelenie Desmonda.
+{2209}{2264}Benjamin Linus jest pani synem?
+{2265}{2324}Dobry Bo¿e, nie.
+{2376}{2453}Moim synem jest Daniel Faraday.
+{2605}{2663}/Trzydzieœci lat wczeœniej
+{2696}{2723}Pomo¿e mi ktoœ?
+{2724}{2766}Pewnie.
+{2930}{2969}Dan.
+{2970}{3020}Czeœæ, Miles.
+{3025}{3055}Kopê lat.
+{3056}{3121}Dobrze, panie i panowie...|Wiecie, po co tu jesteœcie.
+{3122}{3172}Chcia³bym wam wszystkim|¿yczyæ dobrej nocy, ale...
+{3173}{3218}Co tu robisz, Dan?
+{3219}{3283}Myœla³em, ¿e po opuszczeniu|Ann Arbor staniesz siê bogaczem.
+{3284}{3343}Wymyœlisz DVD czy coœ...
+{3344}{3403}Wróci³em z tego powodu.
+{3404}{3435}Kiedy tu przybyli?
+{3436}{3492}Kilka dni temu.|Dziwne, co?
+{3493}{3532}- LaFleurowi uda³o siê...|- Nie mamy czasu.
+{3533}{3586}Zabierz mnie do Jacka, dobrze?
+{3834}{3859}Jack.
+{3860}{3886}- Jak tu wróciliœcie?|- Faraday?
+{3887}{3925}Jak to zrobiliœcie?
+{3926}{3986}- Jak wróciliœcie na wyspê?|- Gdzie siê podziewa³eœ?
+{3987}{4064}W centrum Dharmy w Ann Arbor.|Sprawdza³em to i owo.
+{4065}{4188}Wa¿niejsze jest to,|jak wy wróciliœcie do roku 1977.
+{4195}{4215}Co siê dzieje?
+{4216}{4256}Nie patrz na mnie,|ja tylko niosê baga¿.
+{4257}{4304}Jack, jak?
+{4331}{4382}Lecieliœmy samolotem|i nagle...
+{4383}{4441}Kto wam kaza³?
+{4442}{4514}Twoja matka.
+{4567}{4628}Jak was do tego przekona³a?
+{4629}{4692}Powiedzia³a, ¿e to wasze przeznaczenie?
+{4732}{4788}Dok³adnie tak.
+{4789}{4856}No to mam z³e wieœci.
+{4857}{4929}Nie powinniœcie tu byæ.
+{4935}{4993}Myli³a siê.
+{5072}{5156}ZAGUBIENI [05x14]|Zmienna
+{5172}{5247}T³umaczenie: Animol
+{5272}{5363}.:: Grupa Hatak - Hatak.pl ::.
+{5873}{5953}O co chodzi, mamo?|Nie podoba³o ci siê?
+{5962}{6017}Wrêcz przeciwnie.
+{6049}{6108}To by³o piêkne, Daniel.
+{6297}{6347}Daniel...
+{6361}{6426}Wiesz, czym jest przeznaczenie?
+{6459}{6477}Nie.
+{6478}{6597}Przeznaczenie oznacza,|¿e jeœli ktoœ ma wyj¹tkowy dar,
+{6613}{6684}to musi go rozwijaæ.
+{6717}{6799}Ile razu uderzy³ metronom,|od kiedy zacz¹³eœ graæ?
+{6800}{6870}864.
+{6986}{7047}Twoim darem jest twój umys³.
+{7048}{7144}Umys³ przeznaczony nauce, matematyce.
+{7145}{7190}Moim...
+{7191}{7302}zadaniem jest rozwijanie ciê|w tym kierunku.
+{7335}{7461}Zatem, niestety,|nie ma ju¿ czasu...
+{7475}{7510}na rozrywkê.
+{7511}{7569}Ale ja chcê graæ na fortepianie.
+{7570}{7623}Dam sobie radê z obiema rzeczami.
+{7624}{7702}Wyrobiê siê w czasie.
+{7740}{7804}Gdybyœ tylko móg³...
+{8000}{8042}Miles, zabierz mnie do Orchidei.
+{8043}{8145}- Mo¿esz mnie teraz zawieŸæ?|- Pewnie, nie ma sprawy.
+{8146}{8177}JedŸmy.
+{8185}{8215}- Faraday! Czekaj!|- Miles, jedŸ.
+{8216}{8242}Jack, zaraz wrócimy.
+{8243}{8306}Jak to twoja matka siê pomyli³a?|Daniel!
+{8307}{8363}Muszê coœ za³atwiæ.
+{8364}{8412}Zaraz wrócimy.
+{8589}{8636}- Co jest?|- Faraday wróci³.
+{8656}{8708}Jak to wróci³?|Dlaczego?
+{8709}{8737}Nie mam pojêcia.
+{8738}{8784}Przyp³yn¹³ okrêtem i mnie obudzi³.
+{8785}{8875}Zacz¹³ gadaæ jakieœ bzdury,|a potem pojecha³ do Orchidei.
+{8876}{8950}Chêtnie powymienia³bym siê teoriami,|ale jestem teraz trochê zajêty.
+{8951}{9000}O szóstej rano?
+{9002}{9059}James, powiedz mu.
+{9087}{9143}W³aŸ.
+{9280}{9355}Phil, jeden z moich ludzi,
+{9356}{9460}wydzioba³ sk¹dœ kasetê, na której widaæ,|jak razem z Kate wywozimy dzieciaka do wrogów.
+{9461}{9506}Gdzie jest ta kaseta?
+{9507}{9573}- Phil j¹ ma.|- A gdzie jest Phil?
+{9648}{9721}Phil, poznaj Jacka.|Jack, poznaj Phila.
+{9972}{10041}Czekamy na coœ?
+{10167}{10215}W sam¹ porê.
+{10369}{10420}Wrócê za dziesiêæ minut.
+{10862}{10898}Co mam zrobiæ?
+{10899}{10930}Nic.
+{10931}{11026}Jeœli przewiercisz siê choæby centymetr dalej,|ryzykujesz uwolnieniem tej energii.
+{11027}{11074}Gdyby to siê sta³o...
+{11088}{11139}oby Bóg mia³ nas w swojej opiece.
+{11148}{11203}Na dole obowi¹zuje kask.
+{11425}{11494}- Uwa¿aj!|- Przepraszam, to siê nie powtórzy.
+{11574}{11611}Dalej.
+{11617}{11676}Ja wezmê jego rzeczy.|Idziemy.
+{11817}{11886}S³ysza³eœ?|Podró¿e w czasie.
+{11887}{11953}Za jakich idiotów on nas ma?
+{12052}{12132}Doktorze Chang?|Ma pan chwilê?
+{12155}{12185}Chyba tak.
+{12186}{12242}Przyp³yn¹³em w³aœnie|z za³og¹ £abêdzia.
+{12243}{12293}Spotkaliœmy siê ju¿ trzy lata temu.|Jestem Daniel Faraday.
+{12294}{12352}Tak, przyp³yn¹³ pan z LaFleurem.|Pamiêtam.
+{12360}{12391}Co mogê dla pana zrobiæ?
+{12392}{12520}Musi pan nakazaæ ewakuacjê|ca³ego personelu z tej wyspy.
+{12532}{12565}Dlaczego mia³bym to zrobiæ?
+{12566}{12685}Poniewa¿ ten cz³owiek le¿y na noszach|z powodu aktywnoœci elektromagnetycznej,
+{12686}{12759}któr¹ wywo³a³y pañskie odwierty tutaj.
+{12793}{12848}Ju¿ jest opanowana.
+{12916}{12975}Jest opanowana tutaj,
+{12976}{13097}ale za oko³o szeœæ godzin podobna|rzecz stanie siê na budowie £abêdzia,
+{13098}{13211}z t¹ ró¿nic¹, ¿e energia|bêdzie 30000 razy silniejsza.
+{13212}{13263}Wypadek...
+{13264}{13329}bêdzie katastrofalny.
+{13330}{13374}To jakiœ absurd.
+{13375}{13448}Na jakiej podstawie|dokonuje pan takich przewidywañ?
+{13532}{13604}Jestem z przysz³oœci.
+{13757}{13810}Doktorze Chang, proszê poczekaæ.
+{13811}{13881}- Tylko chwilê.|- Tak, jesteœ z przysz³oœci.
+{13882}{13939}S³ysza³eœ, jak mówiê|o podró¿ach w czasie.
+{13940}{13987}- Zabawi³eœ siê ju¿. Na zdrowie.|- Nie, nie.
+{13988}{14028}Proszê, doktorze Chang.
+{14029}{14100}Proszê spojrzeæ na te równania.
+{14101}{14209}Niektóre zostan¹ odkryte|dopiero za 20 lat.
+{14215}{14265}Dan, daj mu spokój.|Przepraszam, doktorze Chang.
+{14266}{14332}Chyba dosta³ zbyt du¿¹|dawkê prochów na okrêcie...
+{14367}{14419}Miles jest pana synem.
+{14496}{14538}- S³ucham?|- Proszê o tym pomyœleæ.
+{14552}{14658}Chiñczyk o imieniu Miles,|o tym samym imieniu, co pana dziecko,
+{14659}{14715}pojawia siê ze mn¹ z przysz³oœci.
+{14716}{14820}Naprawdê myœli pan,|¿e to przypadek?
+{14915}{14955}Czy to prawda?
+{14956}{15006}Nie.
+{15036}{15107}Proszê trzymaæ siê ode mnie z daleka.
+{15122}{15195}Doktorze Chang, jeœli...
+{15202}{15251}Odbi³o ci?|Co robisz?
+{15252}{15336}Upewniam siê, ¿e twój ojciec|zrobi to, co powinien zrobiæ.
+{15337}{15388}Czyli co?
+{15436}{15490}Przekonasz siê.
+{15725}{15760}Czeœæ, mamo.
+{15761}{15814}Poznaj Theresê.
+{15815}{15870}- Dan wiele mi o pani powiedzia³.|- Bardzo mi mi³o.
+{15871}{15932}Dobra robota, Daniel.
+{15941}{15972}Musi byæ pani dumna.
+{15973}{16088}Pomyœla³am, ¿e moglibyœmy uczciæ|twoje osi¹gniêcie podczas lunchu.
+{16089}{16169}Niedaleko jest mi³a restauracja.|Zarezerwowa³am nam stolik.
+{16186}{16234}Z chêci¹ pójdziemy.
+{16235}{16347}Mia³am nadziejê,|¿e udamy siê tam we dwójkê.
+{16358}{16392}Rozumiesz, prawda?
+{16393}{16472}Bardzo rzadko widujê siê z synem.
+{16474}{16515}- Mamo...|- Rozumiem.
+{16516}{16561}W porz¹dku, Dan.|Naprawdê.
+{16686}{16757}Coœ ciê gnêbi, Danielu?
+{16787}{16849}By³aœ nieuprzejma dla Theresy.
+{16850}{16888}Naprawdê?
+{16889}{16927}Theresa jest moj¹ dziewczyn¹.
+{16928}{16995}Jest twoj¹ asystentk¹.
+{17030}{17090}Powinieneœ skupiæ siê na swojej pracy.
+{17091}{17123}- Na mojej pracy?|- Tak.
+{17124}{17223}- Tylko to siê liczy.|- Tak, da³aœ to wyraŸnie do zrozumienia.
+{17224}{17267}Dlaczego mia³bym marnowaæ|swój dar na kobietê...
+{17268}{17375}Przykro mi to mówiæ,|ale nie bêdziesz mia³ czasu na zwi¹zki.
+{17376}{17469}Kobiety w twoim ¿yciu|bêd¹ jedynie cierpia³y.
+{17506}{17551}Co to ma znaczyæ?
+{17552}{17619}To znaczy, ¿e twoja praca|zawsze bêdzie najwa¿niejsza.
+{17620}{17668}Tylko dlatego,|¿e mnie do niej popychasz.
+{17669}{17731}Naciskasz, naciskasz i naciskasz.
+{17732}{17792}Kiedy wreszcie bêdzie doœæ?|Kiedy?
+{17793}{17851}Jestem najm³odszym oksfordzkim|doktorem w historii.
+{17852}{17934}W³aœnie otrzyma³em grant|w wysokoœci 1,5 miliona funtów.
+{17958}{18007}Co jeszcze muszê zrobiæ?
+{18008}{18100}Grant? Wspaniale.|Od kogo?
+{18120}{18218}Nie wiem,|od jakiegoœ przemys³owca.
+{18241}{18300}Chyba Widmore'a.
+{18376}{18435}Charlesa Widmore'a.
+{18545}{18594}Nie chcê siê z tob¹ k³óciæ.
+{18595}{18643}Nie dlatego przyjecha³am.
+{18644}{18705}Wiêc dlaczego?
+{18864}{18924}Pogratulowaæ ci.
+{19154}{19214}Powodzenia, Daniel.
+{19215}{19302}Mam nadziejê, ¿e wiesz,|i¿ mówiê szczerze.
+{19944}{20079}/Daniel, choæby nie wiem co, pamiêtaj,|/¿e zawsze bêdê ciê kochaæ. Matka.
+{20239}{20280}Dobra, ludki.
+{20281}{20330}Koniec zabawy.
+{20388}{20438}Wiem, ¿e dopiero tu przybiliœcie,
+{20439}{20517}ale pozostali z nas|tkwi¹ tu od trzech lat.
+{20526}{20570}To nasz dom.
+{20571}{20626}Nie chcê st¹d odchodziæ.
+{20652}{20696}Ale nie mamy wyboru.
+{20697}{20747}Myœla³em, ¿e ten koleœ|w szafie dla ciebie pracowa³.
+{20748}{20812}Nie mo¿esz go przekonaæ,|¿e to jakieœ nieporozumienie?
+{20813}{20859}Da³em mu w japê, Hugo.
+{20860}{20912}Mam powiedzieæ,|¿e piêœæ mi uciek³a?
+{20913}{20999}Ile mamy czasu, zanim|ktoœ siê zorientuje, ¿e znikn¹³?
+{21000}{21035}Za ma³o.
+{21036}{21089}Gdzie pójdziemy?
+{21141}{21178}Mamy dwie mo¿liwoœci.
+{21179}{21284}Mo¿emy zakosiæ okrêt|i sp³ywaæ w cholerê...
+{21309}{21396}albo wróciæ do d¿ungli|i zacz¹æ od zera.
+{21407}{21502}Nie wejdê na pok³ad okrêtu, póki istnieje|szansa, ¿e moja ¿ona jest na wyspie.
+{21503}{21534}Ja te¿ nie.
+{21535}{21629}Po tym, co zrobiliœmy,|aby tu wróciæ, mamy znowu uciekaæ?
+{21630}{21667}To by by³o bez sensu.
+{21668}{21790}Dwa g³osy za d¿ungl¹.|Ktoœ jeszcze chce...?
+{21896}{21961}Spokojnie, ju¿ idê.
+{22206}{22258}Czeœæ, James.
+{22264}{22324}Zapraszam na spotkanie, nerwusie.
+{22332}{22359}Dobrze ciê znowu widzieæ.
+{22360}{22424}Ciasto jest w kuchni.|Nalej sobie ponczu.
+{22435}{22508}- Dalej ma nawalone w g³owie?|- Wkroczy³ na kolejny poziom, stary.
+{22509}{22551}Œwietnie...
+{22582}{22681}Jack, przepraszam,|¿e wczeœniej by³em nieuprzejmy,
+{22682}{22782}ale przyby³em zrobiæ coœ niesamowicie|wa¿nego dla wszystkich w tym pokoju.
+{22797}{22885}Czy ktoœ wie,|gdzie mogê znaleŸæ wrogów?
+{22974}{23035}Dlaczego chcesz to wiedzieæ?
+{23099}{23162}Jeden z nich jest moj¹ matk¹.
+{23245}{23366}Jest jedyn¹ osob¹ na tej wyspie, która mo¿e|odes³aæ nas tam, gdzie powinniœmy byæ.
+{23610}{23672}/Te wstrz¹saj¹ce zdjêcia|/pochodz¹ z Christianne I,
+{23673}{23731}/- ³odzi ratunkowej na Oceanie Indyjskim.|- Jakie chcesz jajka?
+{23732}{23805}/Od ponad dwóch miesiêcy|/przeszukiwa³ Rów Sunda...
+{23806}{23914}- ZnaleŸli ten samolot?|/- w poszukiwaniu zaginionego lotu Oceanic 815.
+{23915}{23969}Dan?
+{23991}{24068}Co ciê tak niepokoi?
+{24109}{24180}Nie wiem.
+{24357}{24413}Masz goœcia, Dan.
+{24422}{24452}Herbaty?
+{24453}{24499}Z przyjemnoœci¹.
+{24519}{24573}Witaj, Daniel.
+{24681}{24761}Przepraszam.|Ja nie...
+{24772}{24897}Czy Caroline powiedzia³a panu,|¿e mam zaniki pamiêci?
+{24898}{24960}Spokojnie, nigdy wczeœniej siê|nie widzieliœmy.
+{24961}{25025}Nazywam siê Charles Widmore.
+{25026}{25083}Charles...
+{25111}{25177}Charles Widmore, który...
+{25178}{25230}przyzna³ mi grant?
+{25231}{25330}Bardzo mi³o pana poznaæ.|Proszê usi¹œæ.
+{25378}{25416}Trochê tu naba³aganione...
+{25417}{25510}Chcia³em podziêkowaæ panu...
+{25519}{25559}zanim odszed³em z Oksfordu.
+{25560}{25627}To znaczy zanim ciê zwolnili?
+{25709}{25749}Przetestowa³em to.
+{25750}{25799}Przetestowa³em najpierw na sobie.
+{25800}{25859}- W porz¹dku.|- Nie skrzywdzi³bym Theresy.
+{25860}{25910}Spokojnie.
+{25911}{25959}Nie dlatego przyszed³em.
+{25960}{26047}Chcê zaoferowaæ ci now¹ szansê.
+{26186}{26222}Nie...
+{26223}{26305}Przykro mi, nie mogê.|Nie dam rady...
+{26445}{26495}Zdenerwowa³em ciê czymœ?
+{26496}{26568}Chodzi o tê katastrofê lotnicz¹.
+{26569}{26656}Nie wiem, dlaczego|tak mnie niepokoi.
+{26657}{26721}To takie smutne.
+{26732}{26791}Wszyscy zginêli.
+{26850}{26938}Daniel, a gdybym ci powiedzia³,
+{26939}{27000}¿e oni ¿yj¹?
+{27031}{27124}Gdybym ci powiedzia³,|¿e to mistyfikacja?
+{27125}{27214}Z³o¿ona, kosztowna mistyfikacja?
+{27276}{27337}Sk¹d pan o tym wie?
+{27363}{27428}Poniewa¿ to moja sprawka.
+{27604}{27653}Dlaczego mi pan o tym mówi?
+{27701}{27779}Poniewa¿ do jutra i tak|nie bêdziesz o tym pamiêta³.
+{27840}{27963}Danielu, prawdziwy lot|Oceanic 815 rozbi³ siê na wyspe.
+{27964}{28080}Wyj¹tkowej wyspie|z unikalnymi w³aœciwoœciami naukowymi.
+{28132}{28220}Chcê ciê wys³aæ na tê wyspê.
+{28235}{28295}Pomog³aby twoim badaniom.
+{28296}{28414}Pokaza³aby ci rzeczy,|o których nigdy nie œni³eœ.
+{28415}{28539}A co wa¿niejsze,|uleczy³aby ciê, Danielu.
+{28549}{28638}Twój umys³, twoj¹ pamiêæ.
+{28669}{28725}Uleczy³aby mnie?
+{28830}{28912}Dlaczego robi pan dla mnie to wszystko?
+{28947}{29064}Poniewa¿ posiadasz niesamowite zdolnoœci|i szkoda by³oby patrzeæ, jak siê marnuj¹.
+{29167}{29235}Brzmi pan jak moja matka.
+{29292}{29354}To dlatego,|¿e jesteœmy starymi znajomymi.
+{29549}{29610}Twoja matka jest jedn¹ z Innych?
+{29611}{29717}Spotkaliœcie j¹, kiedy wyspa|przeskoczy³a do 1954 roku.
+{29718}{29812}- Nazywali j¹ Ellie.|- Byliœcie w 1954 roku?
+{29813}{29865}W czasach Fonza?
+{29866}{29917}Wci¹¿ nie powiedzia³eœ,|dlaczego musisz j¹ znaleŸæ.
+{29918}{29968}- Muszê z ni¹ porozmawiaæ.|- Myœla³em, ¿e mamy siê nie wychylaæ.
+{29969}{30019}- Co siê sta³o, to siê nie odstanie.|- Powiedzcie mi, gdzie s¹...
+{30020}{30091}Nic ci nie powiem,|a ty nigdzie nie pójdziesz,
+{30092}{30144}póki nie powiesz nam,|co kombinujesz.
+{30145}{30229}Powiedzia³, ¿e mo¿emy wróciæ tam,|gdzie nasze miejsce.
+{30230}{30314}Czy pop³yniemy okrêtem,|czy wrócimy do d¿ungli...
+{30321}{30354}Nie powinniœmy byæ tutaj.
+{30355}{30425}Mnie tu by³o ca³kiem fajnie,|póki wy siê nie zjawiliœcie.
+{30567}{30611}Wiesz, gdzie s¹ wrogowie.
+{30651}{30720}- Co?|- Zabraliœcie do nich Bena.
+{30721}{30753}Trafisz tam?
+{30754}{30801}Chwila no.|Ani s³owa, Kate.
+{30802}{30857}Mo¿e mówiæ, co tylko zechce.
+{30858}{30987}Kate, obieca³aœ nie pytaæ, co siê sta³o|z Aaronem lub po co tu wróci³aœ.
+{30996}{31071}Ale znam powód i nie ma go tutaj.
+{31072}{31130}Nie teraz.
+{31131}{31250}Co by to nie by³o, pomaganie H. G. Wellsowi|w rozmowie z mamusi¹ nie ma nic do rzeczy.
+{31292}{31353}ChodŸ z nami, piegusko.
+{31469}{31572}Kod do ogrodzenia to 1-4-1-7-1-7.
+{31607}{31663}WeŸcie ze sob¹ Daniela.
+{31664}{31721}Dla nas i tak ju¿ koniec.
+{31827}{31877}Dobrze.
+{31900}{31940}ChodŸmy.
+{31941}{32013}Œwietnie, dziêkujê.
+{32014}{32080}Miles, podrzucisz nas?
+{32332}{32395}Kiedy zdacie sobie sprawê|ze swojego b³êdu,
+{32403}{32486}bêdziemy na pla¿y.|Tam, gdzie to siê zaczê³o.
+{32625}{32766}Dobra, bierzcie ile mo¿ecie unieœæ|i spotkamy siê tu za 20 minut.
+{32868}{32923}Pora na nas.
+{33087}{33154}Nie uciesz¹ siê na nasz widok.
+{33155}{33204}Dobrze by³oby zabraæ jak¹œ broñ.
+{33205}{33278}W parku maszyn jest schowek,|ale zamkniêty.
+{33297}{33352}Ca³e szczêœcie jestem woŸnym.
+{33373}{33421}Dan?
+{33422}{33501}Spotkamy siê przy samochodzie.|Dajcie mi chwilê, dobrze?
+{33999}{34080}Nie wolno mi jeœæ|czekolady przed obiadem.
+{34189}{34293}Bez obaw, s³onko.|Nikomu nie powiem.
+{34370}{34441}Mam na imiê Charlotte, a ty?
+{34487}{34591}Daniel.|Jestem tu nowy.
+{34668}{34721}Pos³uchaj.
+{34722}{34804}Znasz doktora Changa?
+{34832}{34883}Mam nadziejê, ¿e ju¿ nied³ugo
+{34884}{35048}dr Chang ka¿e wielu ludziom udaæ siê|na okrêt i odp³yn¹æ z wyspy.
+{35069}{35202}Kiedy to zrobi, bêdziecie musia³y|z mamusi¹ musia³y odejœæ.
+{35223}{35334}Gdyby moje zadanie siê nie powiod³o,|nie mo¿ecie tu zostaæ.
+{35335}{35398}Musicie odejœæ.
+{35469}{35517}Nie chcia³em ci tego mówiæ.
+{35518}{35589}Nie s¹dzi³em,|¿e bêdê móg³ coœ zmieniæ,
+{35644}{35711}ale mo¿e mi siê uda.
+{35997}{36034}Ile czasu zajmie dotarcie tam?
+{36035}{36150}Zale¿y. Do s³upów mo¿emy jechaæ,|ale na ich terytorium bêdziemy musieli chodziæ.
+{36151}{36180}Dobra.
+{36181}{36238}Masz coœ dla pocz¹tkuj¹cych?
+{36367}{36418}W drogê.
+{36454}{36494}Gotowy do strza³u.
+{36503}{36560}Co tu siê dzieje?
+{36589}{36649}Jesteœ jednym z fizyków z okrêtu?
+{36662}{36713}Tak, zgadza siê.|Sprawdzamy, czy...
+{36714}{36776}Powinieneœ byæ na budowie £abêdzia.
+{36819}{36922}Racja.|W Orchidei by³ wypadek.
+{36930}{36991}- Dr Chang poprosi³ nas o pomoc.|- Ma broñ.
+{36992}{37075}W³aœnie by³em u doktora Changa.|Jest w domu z ¿on¹ i dzieckiem.
+{37076}{37094}K³amiesz.
+{37095}{37171}Rzuciæ broñ i morda w piach!
+{37178}{37254}Pos³uchaj mnie.|Nie rozumiesz, co siê tutaj dzieje.
+{37255}{37338}Ty nie masz pojêcia, a my nie mamy czasu.|Musimy ruszaæ w drogê, dobrze?
+{37354}{37399}Musimy iœæ.
+{37400}{37453}Nikt...
+{37658}{37702}Nic ci nie jest?
+{37865}{37911}Biegnijmy do jeepa.
+{37918}{38004}Dobra, bêdê was os³ania³.|Dan, ty te¿ idŸ.
+{38005}{38054}Gazu!
+{38235}{38293}/PALIWO
+{38814}{38864}Og³osiæ alarm!
+{39531}{39579}Witaj, Danielu.
+{39587}{39640}Matko.
+{39658}{39699}Kiedy przyjecha³aœ?
+{39700}{39773}Dopiero co.|Zadzwoni³abym, ale...
+{39785}{39850}I tak bym zapomnia³.
+{39906}{39999}S³ysza³am, ¿e dosta³eœ ofertê pracy.
+{40022}{40075}Sk¹d wiesz?
+{40076}{40147}Takie jest moje zadanie.
+{40155}{40259}Przysz³am powiedzieæ ci,|bardzo wa¿ne jest,
+{40260}{40334}abyœ przyj¹³ ofertê pana Widmore'a.
+{40355}{40451}Abyœ zaakceptowa³ tê szansê.
+{40494}{40557}Nie mogê.
+{40590}{40706}Potrzebuje kogoœ, kto potrafi wykonaæ|bardzo z³o¿one kalibracje czasoprzestrzenne
+{40707}{40781}i obliczaæ po³o¿enia geograficzne,|a ja po prostu...
+{40796}{40845}Ju¿ tego nie umiem.
+{40846}{40895}Daniel...
+{40896}{41001}Miejsce, o którym ci wspomnia³.|Ta wyspa...
+{41015}{41103}Powiedzia³ ci, ¿e mo¿e ciê uleczyæ?
+{41215}{41261}A jeœli to prawda?
+{41262}{41336}Mia³byœ mo¿liwoœæ|kontynuowaæ swoj¹ pracê.
+{41344}{41434}Pomyœl, co móg³byœ osi¹gn¹æ.
+{41477}{41545}Naprawdê chcesz, ¿ebym to zrobi³?
+{41598}{41655}Tak.
+{41768}{41833}Bêdziesz ze mnie dumna?
+{41938}{42018}Tak, Danielu.|Bêdê.
+{42270}{42332}Zatem to zrobiê.
+{42715}{42741}Pamiêtasz kod?
+{42742}{42782}Tak.
+{42795}{42847}Dobra, rzucê na to okiem.
+{42885}{42951}Dobrze, to tylko draœniêcie.
+{43007}{43052}Zak³uje.
+{43147}{43198}Nic ci nie bêdzie.
+{43206}{43257}Szczêœciarz ze mnie.
+{43269}{43315}Co ma do tego szczêœcie?
+{43316}{43352}Mówi³eœ, ¿e co siê sta³o,|to siê nie odstanie.
+{43353}{43451}Zrozum, Jack,|¿e to jest nasza teraŸniejszoœæ.
+{43452}{43502}Mia³em bliznê,|kiedy siê poznaliœmy?
+{43513}{43551}Nie.
+{43552}{43606}Wtedy jeszcze nie by³em postrzelony.
+{43607}{43693}Nie mo¿emy myœleæ,|¿e nic nam siê nie stanie.
+{43748}{43807}Ka¿dy z nas mo¿e zgin¹æ, Jack.
+{43808}{43884}Dobra, wy³¹czy³am.
+{43930}{43983}Dziêki.
+{44046}{44089}W któr¹ stronê?
+{44090}{44136}To tylko kilka kilometrów.
+{44329}{44379}Jak s¹dzisz?|Wie, co robi?
+{44395}{44457}Mam nadziejê.
+{44458}{44516}Nie ma ju¿ powrotu.
+{44657}{44720}Wiedzia³aœ to od razu,|kiedy tu siê pojawili.
+{44721}{44772}Powinienem by³ ciê pos³uchaæ.
+{44802}{44843}Mo¿esz powiedzieæ:|"A nie mówi³am?".
+{44844}{44891}Dopiero jak wrócimy na pla¿ê.
+{44965}{45018}Wci¹¿ mnie kryjesz?
+{45077}{45139}A ty mnie?
+{45433}{45478}To nic dobrego, prawda?
+{45618}{45665}LaFleur!
+{45686}{45722}Gdzieœ ty by³?
+{45723}{45777}Spokojnie, Stu.|Co siê dzieje?
+{45778}{45906}Postrzeli³ mnie fizyk,|a nowi rekruci mu pomagaj¹.
+{45907}{45936}Ktoœ do nas przenikn¹³.
+{45937}{46038}To niedorzeczne.|Uspokój siê, pogadamy o tym.
+{46081}{46114}Co to by³o?
+{46115}{46167}To chyba na zewn¹trz.
+{46552}{46615}Na glebê.
+{46646}{46712}Natychmiast!
+{47206}{47242}Dziêkujê.
+{47287}{47342}Potrzebna ci broñ,|¿eby porozmawiaæ z matk¹?
+{47401}{47458}Nie znasz jej, Jack.
+{47530}{47583}Powiesz mi, dlaczego siê myli³a?
+{47584}{47643}Dlaczego nie powinniœmy tu byæ?
+{47868}{47989}Za jakieœ cztery godziny|ludzie Dharmy na placu budowy £abêdzia...
+{47990}{48129}bêd¹ wwiercaæ siê w ziemiê i przypadkowo|trafi¹ na ogromn¹ kieszeñ energetyczn¹.
+{48142}{48255}Efekt uwolnienia|tej energii bêdzie katastrofalny.
+{48256}{48380}Aby j¹ opanowaæ,|zabetonuj¹ ca³y teren, jak w Czarnobylu.
+{48414}{48487}Ta os³ona...|To, co tam zbuduj¹...
+{48488}{48550}Wy chyba nazywaliœcie je "bunkrem".
+{48568}{48633}£abêdzi bunkier?
+{48659}{48757}Z powodu tego jednego wypadku,
+{48758}{48883}ci ludzie spêdz¹ nastêpne 20 lat|na ujarzmianiu energii...
+{48905}{48968}przez wciskanie guzika.
+{48981}{49108}Guzika, którego wasz znajomy,|Desmond, pewnego dnia nie wciœnie,
+{49130}{49302}co spowoduje rozbicie siê na tej|wyspie waszego lotu, Oceanic 815.
+{49317}{49396}Z powodu tej kraksy,|wys³any zostanie tutaj frachtowiec.
+{49397}{49459}Frachtowiec, na pok³adzie którego|bêdê ja, Charlotte i ca³a reszta.
+{49460}{49587}Ca³a ta seria wydarzeñ|zacznie siê dzisiejszego popo³udnia.
+{49622}{49713}Ale mo¿emy to zmieniæ.
+{49714}{49794}Ca³e ¿ycie uczy³em siê|fizyki relatywistycznej.
+{49795}{49869}Jedna rzecz wci¹¿ siê powtarza³a.
+{49870}{49991}Nie mo¿na zmieniæ przesz³oœci.|Co siê sta³o, to siê nie odstanie.
+{49992}{50079}Ale w koñcu zda³em|sobie z czegoœ sprawê.
+{50086}{50250}Tyle czasu koncentrowa³em siê na sta³ych,|¿e zapomnia³em o zmiennych.
+{50289}{50356}Wiesz, co jest zmiennymi|w tych równaniach?
+{50378}{50435}- Nie.|- My.
+{50443}{50508}My jesteœmy zmiennymi.|Ludzie.
+{50516}{50599}Myœlimy, rozwa¿amy, dokonujemy wyborów.|Mamy woln¹ wolê.
+{50620}{50701}Mo¿emy zmieniæ nasze przeznaczenie.
+{50771}{50876}Chyba mogê pozbyæ siê|energii spod £abêdzia.
+{50877}{50933}Zniszczyæ j¹.
+{50934}{51064}Jeœli mi siê uda, bunkier nie zostanie|zbudowany, a wasz samolot...
+{51083}{51222}Wasz samolot wyl¹duje zgodnie|z planem w Los Angeles.
+{51356}{51459}A jak dok³adnie chcesz|zniszczyæ tê energiê?
+{51515}{51585}Zdetonujê bombê wodorow¹.
+{51928}{51974}Daniel Faraday?
+{51975}{52037}Daniel Faraday jest pani synem?
+{52059}{52105}Tak.
+{52106}{52193}To on wys³a³ Desmonda do Los Angeles,|aby pani¹ znalaz³.
+{52194}{52243}Zgadza siê.
+{52244}{52331}Przysz³am przeprosiæ, Penelope.
+{52332}{52518}Twój m¹¿ sta³ siê ofiar¹ w konflikcie,|który przerasta jego i ka¿dego z nas.
+{52519}{52575}Co pani mówi?|Wyjdzie z tego?
+{52576}{52635}Nie wiem.
+{52644}{52777}Po raz pierwszy od bardzo dawna|nie wiem, co siê wydarzy.
+{52824}{52874}- Pani Hume?|- Tak?
+{52875}{52943}Pani m¹¿ le¿y w sali pooperacyjnej|i prosi o pani¹.
+{52944}{53000}- Sali pooperacyjnej? Czyli...?|- Wyzdrowieje.
+{53001}{53072}Proszê ze mn¹.|Pielêgniarka popilnuje pani syna.
+{53405}{53464}Czeœæ...
+{53486}{53543}Czeœæ.
+{53578}{53636}Myœla³am, ¿e ciê stracê.
+{53719}{53785}Obieca³em ci, Penny.
+{53798}{53859}Obieca³em...
+{53918}{53987}¿e ju¿ nigdy ciê nie opuszczê.
+{54368}{54421}Wyli¿e siê?
+{54501}{54577}Tak, Charles.|Wszystko w porz¹dku.
+{54615}{54667}To dobrze.
+{54668}{54715}Twoja córka tam jest.
+{54716}{54768}Mo¿e siê przywitasz?
+{54769}{54912}Niestety, Eloise, mój zwi¹zek z córk¹ jest|jedn¹ z tych rzeczy, które musia³em poœwiêciæ.
+{54918}{54966}Poœwiêciæ?
+{54967}{55057}Nie mów mi o poœwiêceniu, Charles.
+{55058}{55144}Musia³am wys³aæ mojego syna z powrotem|na wyspê, wiedz¹c bardzo dobrze, ¿e...
+{55145}{55217}By³ równie¿ moim synem, Eloise.
+{55737}{55791}Pope³niamy b³¹d.
+{55801}{55880}Mówi o wymazaniu wszystkiego,|co siê nam przydarzy³o, Jack.
+{55881}{55920}To szaleñstwo.
+{55921}{56009}Zniknêliœmy z pok³adu lec¹cego|samolotu i wyl¹dowaliœmy w roku 1977.
+{56010}{56056}Zaczynam siê przyzwyczajaæ do szaleñstw.
+{56505}{56538}¯yczcie mi powodzenia.
+{56539}{56596}- Czekaj!|- Nie, daj mu iœæ.
+{57052}{57125}Odsuñ siê.|Wszystko w porz¹dku.
+{57134}{57175}Niech nikt siê nie rusza.
+{57176}{57226}Chcê jedynie porozmawiaæ z Eloise.
+{57270}{57326}Gdzie jest Eloise?
+{57327}{57365}No, gdzie jest?
+{57366}{57417}Przykro mi, ale Elo...
+{57452}{57510}Nie ma jej tu w tym momencie.
+{57586}{57642}Znamy siê?
+{57655}{57699}To bez znaczenia.
+{57700}{57742}Zabierz mnie do Eloise.
+{57743}{57788}Powiedzia³em, ¿e jej tu nie ma.|Uspokój siê.
+{57789}{57844}Gdzie jest bomba, Richard?
+{57845}{57921}Bomba wodorowa, któr¹ kaza³em|zakopaæ twoim ludziom. Gdzie jest?
+{57946}{58010}Pos³uchaj mnie.|Opuœæ broñ i porozmawiamy.
+{58011}{58066}Nikomu nie musi staæ siê krzywda.|Opuœæ broñ.
+{58067}{58143}Dam ci trzy sekundy.
+{58144}{58166}Raz...
+{58167}{58219}- Nie rób tego.|- Dwa!
+{58545}{58589}- Dlaczego to zrobi³aœ?|- Mia³ ciê na muszce.
+{58590}{58638}Nie zastrzeli³by mnie, Eloise.
+{58704}{58757}Eloise...
+{58850}{58930}Wiedzia³aœ...
+{58931}{59008}Zawsze wiedzia³aœ...
+{59018}{59084}Wiedzia³aœ, ¿e to siê stanie,
+{59085}{59200}a i tak mnie tu wys³a³aœ.
+{59251}{59310}Kim jesteœ?
+{59401}{59445}Twoim synem...
